@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-"""here goes everything"""
-
-
 def add(a, b):
     """My addition function
 
